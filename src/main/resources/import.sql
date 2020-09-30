@@ -1,0 +1,1 @@
+insert into Movie (id,title,duration) values (nextval('hibernate_sequence'),'toto', 120);
